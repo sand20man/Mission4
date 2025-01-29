@@ -4,6 +4,7 @@ namespace Mission_4;
 public class SupportTools
 {
     private int count = 0;
+    //Build the board
     public void PrintBoard(char[,] gameArray)
     {
         Console.WriteLine("Tic-Tac-Toe Board:");
