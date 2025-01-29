@@ -21,7 +21,7 @@ public class SupportTools
     {
         bool gameover = false;
         
-        while (count > 4 && !gameover)
+        if (count >= 4 && !gameover)
         {
             //Check rows
             for (int i = 0; i < 3; i++)

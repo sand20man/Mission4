@@ -84,7 +84,7 @@ while (!gameFinished)
         Console.WriteLine(userAnswer[0]);
         validInput = CheckGuess(userAnswer[0]);
         gameFinished = st.CheckWinner(gameArray, isXTurn ? 'X' : 'O') || BoardFull();
-        isXTurn = !isXTurn;
+        if (validInput) isXTurn = !isXTurn;
     }
     else
     {
