@@ -21,3 +21,13 @@
 /Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/obj/Debug/net8.0/Mission 4.csproj.CoreCompileInputs.cache
 /Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/obj/Debug/net8.0/Mission 4.sourcelink.json
 >>>>>>> origin/Sandman
+/Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/bin/Debug/net8.0/Mission 4
+/Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/bin/Debug/net8.0/Mission 4.deps.json
+/Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/bin/Debug/net8.0/Mission 4.runtimeconfig.json
+/Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/bin/Debug/net8.0/Mission 4.dll
+/Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/bin/Debug/net8.0/Mission 4.pdb
+/Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/obj/Debug/net8.0/Mission 4.dll
+/Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/obj/Debug/net8.0/refint/Mission 4.dll
+/Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/obj/Debug/net8.0/Mission 4.pdb
+/Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/obj/Debug/net8.0/Mission 4.genruntimeconfig.cache
+/Users/colemansandy/Desktop/BYU/JuniorCore/413/Mission4/obj/Debug/net8.0/ref/Mission 4.dll
