@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/colemansandy/.nuget/packages/": {}
+    "/Users/jackestes/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission 4/Mission 4.csproj",
+      "projectUniqueName": "/Users/jackestes/RiderProjects/Mission4/Mission 4.csproj",
       "projectName": "Mission 4",
-      "projectPath": "/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission 4/Mission 4.csproj",
-      "packagesPath": "/Users/colemansandy/.nuget/packages/",
-      "outputPath": "/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission 4/obj/",
+      "projectPath": "/Users/jackestes/RiderProjects/Mission4/Mission 4.csproj",
+      "packagesPath": "/Users/jackestes/.nuget/packages/",
+      "outputPath": "/Users/jackestes/RiderProjects/Mission4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/colemansandy/.nuget/NuGet/NuGet.Config"
+        "/Users/jackestes/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/jackestes/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,5 @@
+/Users/jackestes/RiderProjects/Mission4/obj/Debug/net8.0/Mission 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackestes/RiderProjects/Mission4/obj/Debug/net8.0/Mission 4.AssemblyInfoInputs.cache
+/Users/jackestes/RiderProjects/Mission4/obj/Debug/net8.0/Mission 4.AssemblyInfo.cs
+/Users/jackestes/RiderProjects/Mission4/obj/Debug/net8.0/Mission 4.csproj.CoreCompileInputs.cache
+/Users/jackestes/RiderProjects/Mission4/obj/Debug/net8.0/Mission 4.sourcelink.json
